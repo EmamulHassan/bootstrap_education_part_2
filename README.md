@@ -1,2 +1,2 @@
 # bootstrap_education_part_2
- practice day 17
+https://emamulhassan.github.io/bootstrap_education_part_2/
