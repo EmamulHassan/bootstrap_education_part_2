@@ -1,0 +1,317 @@
+/* COL Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo_custom{
+width: 130px;
+}
+nav{
+text-align: right;
+}
+.custom_drop {
+    left: 0px;
+}
+/*header end*/
+/*banner start*/
+.banner{
+background-color: white;
+background-image: url();
+}
+.banner_header h1{
+margin-top: 50px;
+margin-bottom: 80px;
+font-size: 28px;
+}
+/*banner end*/
+/*kid1 start*/
+.content{
+text-align: center;
+}
+.common_title h1 {
+margin-top: 50px;
+}
+.content h1 {
+margin-top: 10px;
+}
+.content hr {
+margin: 0 auto;
+margin-bottom: 15px;
+}
+.content a img {
+margin-top: 10px;
+margin-bottom: 20px;
+width: 150px;
+}
+.content_img img {
+margin-top: 10px;
+margin-bottom: 30px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2{}
+.common_title h1 {
+margin-top: 30px;
+}
+.kid2_img{}
+.kid2_img img{
+width: 100px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.kid2_img h4{
+font-size: 22px;
+margin-bottom: 10px;
+}
+/*kid2 end*/
+/*courses start*/
+.courses
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+margin-top: 22px;
+}
+.profile {
+width: 45px;
+height: 45px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+.moments a img {
+margin-top: 10px;
+margin-bottom: 20px;
+width: 150px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 50px;
+padding-bottom: 20px;
+}
+.stand_img
+{
+text-align: center;
+}
+.stand_img img
+{
+width: 160px;
+}
+.stand_content {
+text-align: center;
+margin-bottom: 20px;
+}
+.stand_content a {
+font-size: 16px;
+}
+.stand_content h1 {
+font-size: 20px;
+padding-top: 10px;
+}
+.stand_content hr
+{
+margin: 5px 0px;
+}
+.c_logos
+{
+margin-bottom: 8px;
+}
+.stand_content p {
+margin-bottom: 5px;
+}
+/*stand end*/
+}
+/* SM Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo_custom{
+width: 150px;
+}
+nav{
+text-align: center;
+}
+.custom_drop{
+    left: 105px;
+}
+/*header end*/
+/*banner start*/
+.banner{
+background-color: white;
+background-image: url();
+}
+.banner_header h1{
+margin-top: 100px;
+margin-bottom: 120px;
+font-size: 40px;
+}
+/*banner end*/
+/*kid1 start*/
+.content{
+text-align: center;
+}
+.common_title h1 {
+margin-top: 80px;
+}
+.content h1 {
+margin-top: 10px;
+}
+.content hr {
+margin: 0 auto;
+margin-bottom: 15px;
+}
+.content a img {
+margin-top: 10px;
+margin-bottom: 50px;
+width: 200px;
+}
+.content_img img {
+margin-top: 10px;
+margin-bottom: 30px;
+}
+/*kid1 end*/
+/*kid2 start*/
+.kid2{}
+.common_title h1 {
+margin-top: 30px;
+}
+.kid2_img{}
+.kid2_img img{
+margin-top: 20px;
+margin-bottom: 10px;
+}
+.kid2_img h4{
+font-size: 22px;
+margin-bottom: 50px;
+}
+/*kid2 end*/
+/*courses start*/
+.courses
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+margin-top: 25px;
+}
+.profile {
+width: 50px;
+height: 50px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.moments a img {
+margin-top: 10px;
+margin-bottom: 20px;
+width: 200px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.stand_content {
+margin-bottom: 10px;
+}
+/*stand end*/
+}
+/* MD Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.logo_custom{
+width: 150px;
+}
+nav{
+text-align: center;
+}
+.custom_drop{
+left: 185px;
+}
+/*header end*/
+/*banner start*/
+.banner_header h1 {
+margin-top: 150px;
+margin-bottom: 180px;
+}
+/*banner end*/
+/*kid1 start*/
+.common_title h1 {
+margin-top: 50px;
+}
+.content h1 {
+margin-top: 10px;
+}
+.content a img {
+margin-top: 10px;
+margin-bottom: 50px;
+}
+.content_img img {
+margin-top: 10px;
+}
+/*kid1 end*/
+/*courses start*/
+.common_title h1 {
+font-size: 26px;
+}
+.courses
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+margin-top: 25px;
+}
+/*card end*/
+/*courses end*/
+}
+/* LG Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu_custom ul li a{
+padding: 0 15px !important;
+}
+/*header end*/
+/*banner start*/
+.banner_header h1 {
+margin-top: 200px;
+margin-bottom: 230px;
+}
+/*banner end*/
+}
+/*courses start*/
+.rowline_img{}
+.rowline_img img{
+width: 80%;
+}
+/*courses end*/
+/* XL Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.banner_header h1 {
+margin-top: 330px;
+margin-bottom: 370px;
+}
+
+}
